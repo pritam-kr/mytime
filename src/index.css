@@ -1,18 +1,1 @@
-/* Font For Headings */
-@import url("https://fonts.googleapis.com/css2?family=Albert+Sans:wght@200;300;400;500;600;700&display=swap");
-/* Font for Paragraph */
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap");
-
-:root {
-  --font-headings: "Albert Sans", sans-serif;
-  --font-paragraph: "Open Sans", sans-serif;
-  --heading-color: #37352F;
-  --text-color: #514f4d;
-  --CTA-color: #37352F;
-  --secondary-color: #666461;
-}
-
-
-body{
-  background-color: #f7f7f7;
-}
+ 
